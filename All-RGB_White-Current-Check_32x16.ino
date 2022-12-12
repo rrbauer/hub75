@@ -22,7 +22,7 @@
 #define B   A1
 #define C   A2
 
-#define ONVALUE 1
+#define ONVALUE 1   // the brightness, 1 is lowest, 7 is highest
 
 #define RGB_RED ONVALUE, 0, 0
 #define RGB_GREEN 0, ONVALUE, 0
